@@ -116,8 +116,7 @@
                 </div>                            
             </div>
          
-            
-            <input type="submit" class="btn btn-primary" value="Generate">
+            <input type="submit" class="btn btn-primary" value="Build Plugin">
 
           </form>
         </div>
