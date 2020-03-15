@@ -1,4 +1,4 @@
-# WPVenus Plugin Generator (for private use only)
+# WordPress Plugin Boilerplate generator
 
 Plugin Boilerplate generator generate the boilerplate from the payload plugin.  
 
